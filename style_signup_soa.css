@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    font-family: 'Roboto',sans-serif;
+    padding: 50px;
+}
+
+.signup{
+    width: 400px;
+    height: 580px;
+    margin: auto;
+    background-color:white;
+    border-radius: 3px;
+    padding-left: 70px;
+}
+
+h3{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 50px;
+    padding-right: 35px;
+
+}
+
+.forms{
+    width:300px;
+    margin-left: 20px;
+    font-size: 18px;
+    
+}
+
+forms label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.forms input{
+    width: 100px;
+    padding: 7px;
+    border: none;
+    border-radius: 1px solid black;
+    outline: none;
+}
+
+input[type="button"]{
+      width: 320px;
+      height: 35px;
+      margin-top: 20px;
+      border: none;
+      background-color: black;
+      color: white;
+      font: size 18px;
+
+}
+input[type="text"]{
+    width: 320px;
+    height: 25px;
+    
+}
+
+input[type="email"]{
+    width: 320px;
+    height: 25px;
+    
+}
+
+input[type="password"]{
+    width: 320px;
+    height: 25px;
+    
+}
+
+.p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+.para{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.para a{
+    color: white;
+}
